@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/ci-cd-jenkins-x-kubernetes-packt/spring-boot-http-gradle.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: hohnbot
+  repo: temp
+  url: https://github.com/hohnbot/temp.git
+  version: ""
+  versionURL: ""

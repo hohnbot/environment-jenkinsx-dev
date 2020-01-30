@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: hohnbot
+    provider: github
+    repository: temp
+  name: hohnbot-temp
+spec:
+  description: Imported application for hohnbot/temp
+  httpCloneURL: https://github.com/hohnbot/temp.git
+  org: hohnbot
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: temp
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/hohnbot/temp.git
