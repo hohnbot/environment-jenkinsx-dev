@@ -6,3 +6,4 @@ Dependency | Sources | Version | Mismatched versions
 [ci-cd-jenkins-x-kubernetes-packt/hello-video-3.1](https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-video-3.1.git) |  | []() | 
 [ci-cd-jenkins-x-kubernetes-packt/hello-video-3-1](https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-video-3-1.git) |  | []() | 
 [ci-cd-jenkins-x-kubernetes-packt/hello-3-2-auto](https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-3-2-auto.git) |  | []() | 
+[ci-cd-jenkins-x-kubernetes-packt/hello-3-2-specify](https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-3-2-specify.git) |  | []() | 
