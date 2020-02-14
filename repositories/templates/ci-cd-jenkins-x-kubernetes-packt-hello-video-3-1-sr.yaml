@@ -5,17 +5,17 @@ metadata:
   labels:
     owner: ci-cd-jenkins-x-kubernetes-packt
     provider: github
-    repository: hello-video-3.1
+    repository: hello-video-3-1
   name: ci-cd-jenkins-x-kubernetes-packt-hello-video-3-1
 spec:
-  description: Imported application for ci-cd-jenkins-x-kubernetes-packt/hello-video-3.1
-  httpCloneURL: https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-video-3.1.git
+  description: Imported application for ci-cd-jenkins-x-kubernetes-packt/hello-video-3-1
+  httpCloneURL: https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-video-3-1.git
   org: ci-cd-jenkins-x-kubernetes-packt
   provider: https://github.com
   providerKind: github
   providerName: github
-  repo: hello-video-3.1
+  repo: hello-video-3-1
   scheduler:
     kind: ""
     name: ""
-  url: https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-video-3.1.git
+  url: https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-video-3-1.git
