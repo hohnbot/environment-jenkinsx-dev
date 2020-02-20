@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ci-cd-jenkins-x-kubernetes-packt
+    provider: github
+    repository: hello-3-5-replace
+  name: ci-cd-jenkins-x-kubernetes-packt-hello-3-5-replace
+spec:
+  description: Imported application for ci-cd-jenkins-x-kubernetes-packt/hello-3-5-replace
+  httpCloneURL: https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-3-5-replace.git
+  org: ci-cd-jenkins-x-kubernetes-packt
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: hello-3-5-replace
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-3-5-replace.git
