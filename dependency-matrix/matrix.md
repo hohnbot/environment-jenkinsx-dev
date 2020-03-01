@@ -12,3 +12,4 @@ Dependency | Sources | Version | Mismatched versions
 [ci-cd-jenkins-x-kubernetes-packt/hello-3-5-replace](https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-3-5-replace.git) |  | []() | 
 [ci-cd-jenkins-x-kubernetes-packt/hello-4-1](https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-4-1.git) |  | []() | 
 [ci-cd-jenkins-x-kubernetes-packt/hello-4-2](https://github.com/ci-cd-jenkins-x-kubernetes-packt/hello-4-2.git) |  | []() | 
+[ci-cd-jenkins-x-kubernetes-packt/test-2](https://github.com/ci-cd-jenkins-x-kubernetes-packt/test-2.git) |  | []() | 
