@@ -1,0 +1,19 @@
+metrics:
+  enabled: true
+  serviceMonitor:
+    enabled: false
+mongodbDatabase: db1
+mongodbPassword: password
+mongodbRootPassword: admin
+mongodbUsername: user1
+persistence:
+  enabled: false
+  size: 10GB
+replicaSet:
+  enabled: false
+  replicas:
+    arbiter: 2
+    secondary: 2
+usePassword: false
+volumePermissions:
+  enabled: false
