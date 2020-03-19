@@ -1,9 +1,9 @@
 metrics:
-  enabled: true
+  enabled: false
   serviceMonitor:
     enabled: false
 mongodbDatabase: db1
-mongodbPassword: password
+mongodbPassword: pass1
 mongodbRootPassword: admin
 mongodbUsername: user1
 persistence:
@@ -14,6 +14,6 @@ replicaSet:
   replicas:
     arbiter: 2
     secondary: 2
-usePassword: false
+usePassword: true
 volumePermissions:
   enabled: false
